@@ -1,7 +1,7 @@
 """
 
 Author : Shuvam Kumar Singh
-Date : 31/01/2024
+Date : 01/02/2024
 Problem : 2966. Divide Array Into Arrays With Max Difference
 Difficulty : Medium
 
