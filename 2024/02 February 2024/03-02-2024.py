@@ -1,8 +1,8 @@
 """
 
 Author : Shuvam Kumar Singh
-Date : 02/02/2024
-Problem : 1291. Sequential Digits
+Date : 03/02/2024
+Problem : 1043. Partition Array for Maximum Sum
 Difficulty : Medium
 
 """
