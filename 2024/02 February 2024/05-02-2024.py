@@ -1,7 +1,7 @@
 """
 
 Author : Shuvam Kumar Singh
-Date : 04/02/2024
+Date : 05/02/2024
 Problem : 387. First Unique Character in a String
 Difficulty : Easy
 
